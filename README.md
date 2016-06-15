@@ -23,6 +23,8 @@ Alternatively, you can also run Binary Wall via:
 
 Then, go to [http://localhost:4567/](http://localhost:4567/)
 
+A deployed version of this app is also available at http://binary-wall.herokuapp.com
+
 ## Usage ##
 
 Simply type in the desired text, click Submit, and you'll be directed to a page showing the binary wall version of your text.
