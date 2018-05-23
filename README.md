@@ -9,7 +9,7 @@ Binary Wall is written in [Ruby](http://www.ruby-lang.org/) using the [Sinatra](
 ### Ruby ###
 
 To run Binary Wall you will need [Ruby](http://www.ruby-lang.org/) installed.
-Binary Wall has been tested with Ruby 2.3.0.
+Binary Wall has been tested with Ruby 2.5.1.
 
 ## Running ##
 
